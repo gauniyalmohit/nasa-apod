@@ -50,7 +50,7 @@ data = {
 }
 
 
-st.title('NASA Picture of the Day')
+st.title('nasa Picture of the Day')
 
 #time.sleep(3)
 
